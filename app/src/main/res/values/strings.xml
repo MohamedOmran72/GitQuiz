@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Git Quiz</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="text_question_1">1- [ git commit ] is used to ....</string>
+    <string name="question_1_answer_a">Save your changes to the remote repository.</string>
+    <string name="question_1_answer_b">Save your changes to the local repository.</string>
+    <string name="question_1_answer_c">Show your commits.</string>
+    <string name="question_1_answer_d">Show the current branch.</string>
+    <string name="text_question_2">2- To comparing your working directory with staging area use ?</string>
+    <string name="question_2_answer_a">"git diff "</string>
+    <string name="question_2_answer_b">git diff --staged</string>
+    <string name="question_2_answer_c">diff</string>
+    <string name="question_2_answer_d">git reset —hard</string>
+    <string name="text_question_3">3- To comparing the staging area with the most recent commit use?</string>
+    <string name="text_question_4">4- To create new branch use?</string>
+    <string name="question_4_answer_a">git branch</string>
+    <string name="question_4_answer_b">git branch \" Branch name \"</string>
+    <string name="question_4_answer_c">git checkout \" Branch name \"</string>
+    <string name="question_4_answer_d">git branch -d \" Branch name \"</string>
+    <string name="text_question_5">5- To commit your changes you can use?</string>
+    <string name="question_5_answer_a">git commit</string>
+    <string name="question_5_answer_b">git commit -m\" your commit \"</string>
+    <string name="question_5_answer_c">git commit -n\" your commit \"</string>
+    <string name="question_5_answer_d">git merge</string>
+    <string name="submit">Submit</string>
+    <string name="toast_massage">Thanks, %1$s\n You have got %2$d out of 5.</string>
+    <string name="error_massage">Incorrect answer</string>
+</resources>
