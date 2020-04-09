@@ -8,4 +8,4 @@
 * TextInput
 
 ## Screen shots
-![first image](screenShots/1.jpg)  ![second image](screenShots/2.jpg)
+<img src="screenShots/1.jpg" height="420" width="240" hspace="20"><img src="screenShots/2.jpg" height="420" width="240" hspace="20">
